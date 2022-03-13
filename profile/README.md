@@ -1,4 +1,4 @@
-# Togohogo1's Archive
+# Togohogo1's Archives
 This is the place where all of my random coding projects go.
 
 Projects here are not deemed important enough to make it to a public repository. The code located here mostly include small side projects that I work on or just random code snippets that I write for personal use.
