@@ -7,3 +7,4 @@ Projects here are not deemed important enough to make it to a public repository.
 - Change `projects` in organization description
 - Change readme to reflect new purpose of this repo
 - `src` folder for EE Scripts
+- Consider moving single file scripts that use text files to `misc-snippets` repo
